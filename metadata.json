@@ -1,0 +1,7 @@
+{
+  "name": "AirWrite Pro",
+  "description": "An innovative canvas that allows you to write and draw in the air using your webcam and finger tracking, with Gemini-powered vision analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
